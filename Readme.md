@@ -3,6 +3,8 @@ This package is a YRPF 1.2.4 compatible only package.
 The package provide a item (Spray can) and the possibility to apply graffiti on defined area 
 You can define spots/graffiti in sv/config.lua
 
+![](https://i.imgur.com/SuB4Djb.png)
+
 ## Requirements
 YRPF 1.2.4  
 OnsetServer 1.2.2
